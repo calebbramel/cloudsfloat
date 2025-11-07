@@ -49,7 +49,7 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
       - name: Install Node.Js Dependencies
-        working-directory: themes/hugo-universal-theme
+        working-directory: ./
         run: npm ci
       - name: Cache Restore
         id: cache-restore
