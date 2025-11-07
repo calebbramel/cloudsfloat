@@ -1,0 +1,7 @@
+enable: true
+
+title: "Get a Modern Work assessment!"
+image: "images/services-web-development.png"
+button:
+  label: "Let's talk"
+  link: "#"

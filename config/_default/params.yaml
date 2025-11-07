@@ -1,0 +1,32 @@
+title: "CloudsFloat"
+description: "CloudsFloat helps businesses like yours stop sinking time and money on licensing and IT operations."
+images: 
+  - "images/hero-image.png"
+
+logo: "logo.png"
+
+colors:
+  primary: "#0F2942"   # Navy for headings/anchors
+  secondary: "#20B2AA" # Float Green for accents/CTAs
+  tertiary: "#EFF3F6"  # Soft gray for panels/section backgrounds
+
+favicons:
+  themeColor: "#FFFFFF"
+  backgroundColor: "#FFFFFF"
+  faviconColor: "#20B2AA"   # or "#0F2942" if you prefer a navy pinned tab
+
+social:
+  dribbble: "#"
+  instagram: "#"
+  facebook: "#"
+  twitter: "#"
+
+location:
+  - "356 Ashgrove Dr, Mount Sterling, Kentucky 40353"
+
+contact:
+  - "hello@cloudsfloat.com"
+  - "859.697.4946"
+
+copyright: "© 2025 Bramel Technologies All Rights Reserved"
+

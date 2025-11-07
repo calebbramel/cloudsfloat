@@ -1,0 +1,26 @@
+enable: true
+
+title: "Our main services"
+text: "Local Microsoft 365 licensing, secure setups, and small-scale migrations—simple, predictable, and ready for small teams."
+
+cards:
+  - image: "images/services-web-development.png"
+    title: "License provisioning & secure setup"
+    text: "Provision Microsoft 365 licenses, create users and mailboxes, and apply a practical security baseline (MFA + Conditional Access). One-time onboarding with a license report and admin handoff."
+    button:
+      label: "Learn more"
+      link: "/services#starter"
+
+  - image: "images/services-web-development.png"
+    title: "Managed Modern Work"
+    text: "Monthly per-user management for Teams, OneDrive, and SharePoint with first-line support and routine health checks. Consolidated billing and predictable tenant maintenance."
+    button:
+      label: "See plans"
+      link: "/services#operate"
+
+  - image: "images/services-web-development.png"
+    title: "Small migrations & tenant cleanup"
+    text: "Migrate mailboxes, files, and small server footprints with minimal downtime. Tenant cleanup and license rationalization ensure a secure, cost-efficient cutover."
+    button:
+      label: "Get an assessment"
+      link: "/services#lift"

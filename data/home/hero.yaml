@@ -1,0 +1,13 @@
+enable: true
+
+title: "Let us **elevate** your business"
+text: "Eventually you outgrow your technology. Modernize how your team works with secure, cloud-first solutions. From collaboration to accounts, device management, and licensing, we make adoption simple and predictable."
+
+buttons:
+  - label: "How we work"
+    link: "#"
+
+  - label: "Let's talk"
+    link: ""
+
+image: "images/hero-image.png"
